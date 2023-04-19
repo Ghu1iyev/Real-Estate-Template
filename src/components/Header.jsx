@@ -4,7 +4,7 @@ import Logo from '../assets/img/logo.svg'
 
 const Header = () => {
   return (
-   <header className='py-6 px-16 mb-12 border-b'>
+   <header className='py-6 px-10 mb-12 border-b'>
      <div className='container mx-auto flex justify-between items-center'>
         {/* Logo */}
         <Link to='/'>
